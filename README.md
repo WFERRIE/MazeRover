@@ -33,4 +33,5 @@ Once the rover arrived in the pickup location, it would open its gripper, exposi
 
 ## Final Result
 The Robot performed well and was able to complete all tasks! Below is a picture of our beautiful baby:
-![darnell](https://github.com/WFERRIE/MazeRover/assets/58156317/10862090-085b-4273-a338-7f44a072f27c)
+![darnell](https://github.com/WFERRIE/MazeRover/assets/58156317/18a22023-e7a3-4f3a-b5f7-12c88da87f89)
+
